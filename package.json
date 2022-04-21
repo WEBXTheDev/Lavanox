@@ -1,0 +1,25 @@
+{
+  "name": "lavanox",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": ",,ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WEBXTheDev"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "WEBXTheDev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.3.0",
+    "ms": "^2.1.3"
+  }
+}
